@@ -1,0 +1,111 @@
+@font-face {
+    font-family: 'myFont';
+    src: url('./font-family/EBGaramond-Italic-VariableFont_wght.ttf');
+}
+.hello {
+    color: red;
+    font-family: 'myFont';
+   background: url('./icon/fresco-logo-pequeno.png');
+  }
+.banner{
+    background-image: url(./icon/pizzaria-hero-fundo01.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0.507);
+    height: 700px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.infoBox{
+    text-align: center;
+    justify-content:center;
+}
+.orange{
+    color:#FF8800;
+}
+.black{
+    color:#292827;
+}
+.white{
+    color:#eeeeee;
+}
+.pizza{
+    background-image: url(./icon/pizza.jpg);
+    background-size: contain;
+    background-repeat:no-repeat;
+    
+    
+}
+.timeLine{
+    background-image: url(./icon/restaurante02.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+
+    text-align: center;
+    height: 700px;   
+}
+
+
+.footerBack{
+    background-image: url(./icon/pizzaria-hero-fundo02.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.footerNumber{
+    background-color: rgba(0, 0, 0, 0.719);
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+}
+.section-copy{
+    background-color: rgba(0, 0, 0, 0.719);
+    color:#eeeeee;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.containerDepoiment{
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.depoiment{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;   
+    text-align: center;
+    height: 400px;
+}
+
+.depoimentImg{
+    border-radius: 50%;
+}
+.cardapioImg{
+    width: 150px;
+    height: 150px;
+}
+.itemCardapio{
+    display: grid;
+    grid-template-columns: 150px auto auto; 
+    gap: 7px;   
+}
+.wine{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.row-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.mt-6{
+    margin-top: 50px;
+    padding-top: 50px;
+}
