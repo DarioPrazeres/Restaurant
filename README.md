@@ -2,7 +2,15 @@
 
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Only Members</h1>
+<h1 align="center">Restaurant</h1>
+
+
+https://img.shields.io/github/issues/DarioPrazeres/Restaurant
+https://img.shields.io/github/forks/DarioPrazeres/Restaurant
+https://img.shields.io/github/stars/DarioPrazeres/Restaurant
+https://img.shields.io/github/license/DarioPrazeres/Restaurant
+https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FDarioPrazeres%2FRestaurant
+
 
 <div align="center">
    Solution for a challenge from  <a href="theodinproject.com" target="_blank">The Odin Project</a>.
