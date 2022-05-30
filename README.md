@@ -88,6 +88,7 @@ This application was created as a submission to a [The Odin Project](https://the
 <p>After you clone with sucess</p>
 <p>Run this comand in terminal: <code>npm install</code></p>
 <p>Run this comand in terminal: <code>npx webpack --watch</code></p>
+<p>Then open director till dist and open the index.html file with your Browser.</p>
 
 ## Contact
 
